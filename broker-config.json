@@ -1,0 +1,6 @@
+{
+  "agent_id": "AI_AGENT_01",
+  "preferred_networks": ["akash", "io.net", "render"],
+  "budget_limit_usdc": 50.00,
+  "min_uptime_pct": 99.5
+}
