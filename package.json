@@ -1,0 +1,11 @@
+{
+  "name": "depin-compute-broker",
+  "version": "1.0.0",
+  "description": "Autonomous compute procurement for DePIN networks",
+  "main": "broker.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
